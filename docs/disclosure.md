@@ -20,4 +20,4 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
-
+- W02 · Claude Code · Used for: I explained my project in detail in Hebrew, and Claude Code helped me write the Week 2 project proposal. · Checked by: reviewing and editing the proposal myself.
